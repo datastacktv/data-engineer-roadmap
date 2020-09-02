@@ -33,7 +33,7 @@ Huge thank you to [Joe Cullen](https://www.linkedin.com/in/joseph-cullen-97a8727
 
 ## About us 👋🏼
 
-[datastack.tv](https://datastack.tv/) is the learning platform for the modern data stack. We create concise screencast video tutorials for data engineers. [**Browse out courses here!**](https://datastack.tv/courses.html)
+[datastack.tv](https://datastack.tv/) is the learning platform for the modern data stack. We create concise screencast video tutorials for data engineers. [**Browse our courses here!**](https://datastack.tv/courses.html)
 
 ## License 🗞
 

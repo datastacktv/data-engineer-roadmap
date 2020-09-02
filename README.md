@@ -35,6 +35,6 @@ Huge thank you to [Joe Cullen](https://www.linkedin.com/in/joseph-cullen-97a8727
 
 [datastack.tv](https://datastack.tv/) is the learning platform for the modern data stack. We create concise screencast video tutorials for data engineers. [**Browse out courses here!**](https://datastack.tv/courses.html)
 
-## Licence 🗞
+## License 🗞
 
 > Copyright © 2020 Alexandra Abbas — <hello@datastack.tv>

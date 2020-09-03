@@ -29,7 +29,7 @@ Please raise an issue to discuss your suggestions or open a Pull Request to requ
 
 ## Reviewers 🔎
 
-Huge thank you to [Joe Cullen](https://www.linkedin.com/in/joseph-cullen-97a8727a/), [@sawidis](https://github.com/sawidis) and [@marclamberti](https://github.com/marclamberti) for reviewing this roadmap.
+Huge thank you to [@whydidithavetobebugs](https://github.com/whydidithavetobebugs), [@sawidis](https://github.com/sawidis), [@marclamberti](https://github.com/marclamberti) and [@mpyeager](https://github.com/mpyeager) for reviewing this roadmap.
 
 ## About us 👋🏼
 

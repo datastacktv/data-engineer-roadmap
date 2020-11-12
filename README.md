@@ -1,5 +1,5 @@
 
-![Modern Data Engineer Roadmap 2020](img/title.png)
+![Modern Data Engineer Roadmap 2020](img/title.jpeg)
 
 > Roadmap to becoming a data engineer in 2020
 

@@ -1,7 +1,7 @@
 
-![Modern Data Engineer Roadmap 2020](img/title.png)
+![Modern Data Engineer Roadmap 2021](img/title.png)
 
-> Roadmap to becoming a data engineer in 2020
+> Roadmap to becoming a data engineer in 2021
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](https://www.youtube.com/channel/UCQSbqkMlvf_J949HDWxOt7Q)
@@ -37,4 +37,4 @@ Huge thank you to [@whydidithavetobebugs](https://github.com/whydidithavetobebug
 
 ## License 🗞
 
-> Copyright © 2020 Alexandra Abbas — <hello@datastack.tv>
+> Copyright © 2021 Alexandra Abbas — <hello@datastack.tv>

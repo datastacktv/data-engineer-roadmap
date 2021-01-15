@@ -4,7 +4,7 @@
 > Roadmap to becoming a data engineer in 2021
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](https://www.youtube.com/channel/UCQSbqkMlvf_J949HDWxOt7Q)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](http://youtube.com/c/datastacktv)
 [![Website](https://img.shields.io/badge/-Website-565CD8)](https://datastack.tv/)
 
 This roadmap aims to give a **complete picture of the modern data engineering landscape** and serve as a **study guide** for aspiring data engineers.
@@ -17,9 +17,13 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ***
 
+> [Text version for visually impaired users](text/roadmap.md)
+
 ![Data Engineer Roadmap](img/roadmap.png)
 
 ## Nice to have 😎
+
+> [Text version for visually impaired users](text/extras.md)
 
 ![Data Engineer Roadmap Extras](img/extras.png)
 

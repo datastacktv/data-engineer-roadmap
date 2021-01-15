@@ -20,10 +20,10 @@
     * PyTorch [general recommendation]
 
 * Machine Learning Ops
-	* Tensorflow Extended (TFX) [general recommendation]
-	* Kubeflow [personal recommendation]
+    * Tensorflow Extended (TFX) [general recommendation]
+    * Kubeflow [personal recommendation]
     * MLflow
-	* Amazon SageMaker
+    * Amazon SageMaker
     * Google Cloud AI Platform
 
 *Note: Keep learning...*

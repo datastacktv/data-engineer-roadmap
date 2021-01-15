@@ -14,10 +14,10 @@
 		* Vim
 		* Shell scripting
 		* Cronjobs
-    * How does the computer work? [general recommendation]
-    * How does the Internet work? [general recommendation]
-    * Git — Version control [general recommendation]
-    * Math & statistics basics [general recommendation]
+	* How does the computer work? [general recommendation]
+	* How does the Internet work? [general recommendation]
+	* Git — Version control [general recommendation]
+	* Math & statistics basics [general recommendation]
 
 *Note: Git is used for tracking changes in source code and coordinating work among programmers. In your day to day work you will use Git server as a service like GitHub, GitLab or Bitbucket.*
 

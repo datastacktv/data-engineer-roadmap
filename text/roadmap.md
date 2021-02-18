@@ -83,6 +83,7 @@
 	* AWS S3 [general recommendation]
 	* Azure Blob Storage
 	* Google Cloud Storage
+	* Apache Ozone
 
 * Cluster computing fundamentals
 	* Apache Hadoop [general recommendation]

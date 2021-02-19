@@ -129,10 +129,13 @@
 
 *Note: Cloud Composer is a managed Apache Airflow service on Google Cloud Platform.*
 
-* Monitoring data pipelines
+* Monitoring and observability for data pipelines
 	* Prometheus [general recommendation]
 	* Datadog [general recommendation]
 	* Sentry [general recommendation]
+	* Monte Carlo
+	* Datafold
+	* Soda Data
 	* StatsD
 
 * Networking

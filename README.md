@@ -18,7 +18,7 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ***
 
-> 🆕🔥  We just launched [**Data Stack Jobs**](https://datastackjobs.com/) — a clean and simple job site for Data Stack Engineers!
+🔥  We just launched [**Data Stack Jobs**](https://datastackjobs.com/) — a clean and simple job site for Data Stack Engineers!
 
 > [Text version for visually impaired users](text/roadmap.md)
 

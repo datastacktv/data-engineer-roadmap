@@ -6,6 +6,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](http://youtube.com/c/datastacktv)
 [![Website](https://img.shields.io/badge/-Website-565CD8)](https://datastack.tv/)
+[![Jobs](https://img.shields.io/badge/-Jobs-ffdf4b)](https://datastackjobs.com/)
 
 This roadmap aims to give a **complete picture of the modern data engineering landscape** and serve as a **study guide** for aspiring data engineers.
 
@@ -16,6 +17,8 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 > Beginners shouldn’t feel overwhelmed by the vast number of tools and frameworks listed here. A typical data engineer would master a subset of these tools throughout several years depending on his/her company and career choices.
 
 ***
+
+> 🆕🔥  We just launched Data Stack Jobs — a clean and simple job site for Data Stack Engineers! [**Browse jobs here!**](https://datastackjobs.com/)
 
 > [Text version for visually impaired users](text/roadmap.md)
 

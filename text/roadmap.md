@@ -20,6 +20,7 @@
 	* Math & statistics basics [general recommendation]
 
 *Note: Git is used for tracking changes in source code and coordinating work among programmers. In your day to day work you will use Git server as a service like GitHub, GitLab or Bitbucket.*
+*Add note: It is better to be a generalist rather than an expert in one field. We should be generalist with this roadmap.
 
 * Learn a programming language
 	* Python [personal recommendation]

@@ -1,7 +1,7 @@
 
 ![Modern Data Engineer Roadmap 2021](img/title.png)
 
-> Roadmap to becoming a data engineer in 2021
+> Roadmap to becoming a data engineer in 2022
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](http://youtube.com/c/datastacktv)
